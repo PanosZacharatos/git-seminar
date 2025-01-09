@@ -3,5 +3,5 @@ console.log("Hello from the console.")
 
 
 
-//document.getElementById("panos").addEventListener("click",()=>{alert("panos")});
+document.getElementById("manos").addEventListener("click",()=>{alert("manos")});
 
